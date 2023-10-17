@@ -1,6 +1,13 @@
 package franco.maurizio.java19.a;
 
 /**
+ * 
+ * Provides an introduction on Record instancing and use.
+ * In detail:
+ *           - how to instance a record
+ *           - how to call the "get" accessor method (you can see no get prefix in the name, but only the name of the property with the parenthesis)
+ *           - how the default equals implementation works
+ *           - differences among the default equals implementation for Record, String and Object 
  * @author maurizio.franco@ymail.com
  */
 public class PointsTest {
