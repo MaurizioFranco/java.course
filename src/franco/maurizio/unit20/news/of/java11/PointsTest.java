@@ -1,4 +1,4 @@
-package franco.maurizio.java19.a;
+package franco.maurizio.unit20.news.of.java11;
 
 /**
  * 
@@ -31,7 +31,7 @@ public class PointsTest {
 		Object aaaa = new Object () ;
 		Object bbbb = new Object () ;
 		System.out.printf("this is the equals method invocation on aaaa and bbbb objects - aaaa.equals(bbb) : %s%n", aaaa.equals(bbbb));
-		
+		//first.x
 	}
 
 }

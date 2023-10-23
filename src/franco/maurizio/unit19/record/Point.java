@@ -1,4 +1,4 @@
-package franco.maurizio.java19.a;
+package franco.maurizio.unit19.record;
 
 /**
  * @author maurizio.franco@ymail.com
